@@ -4,7 +4,7 @@ heroImage: /logo.svg
 heroText: Sneaky Peek
 tagline: Sneak Peek Documentation
 actionText: Get Started →
-actionLink: /guide/
+actionLink: /intro/
 features:
 - title: Live static site previews
   details: Sneaky Peek allows you to have dynamic static site previews for your content editors.
