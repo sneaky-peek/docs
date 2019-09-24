@@ -1,0 +1,15 @@
+{
+  "name": "sneaky-peek-docs",
+  "version": "1.0.0",
+  "description": "sneakypeek.app documentation site",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "Jozef Maxted",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.1.0"
+  }
+}
